@@ -11,7 +11,7 @@ public class IfParOrImpar {
         int num = read.nextInt();
         int rest = num % 2;
 
-        if (num > 0 && rest == 0) {
+        if (rest == 0) {
             System.out.printf("%d é Par\n", num);
         } else {
             System.out.printf("%d é Ímpar\n", num);
