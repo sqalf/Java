@@ -1,3 +1,5 @@
+package EstruturasSequenciais;
+
 import java.util.Locale;
 
 public class SqrtPowAbs {
